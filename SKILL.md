@@ -1,6 +1,7 @@
 ---
 name: web-mastery
 description: Expert web design, conversion science, and Webflow mastery. Load for ANY website work — landing pages, marketing sites, Webflow builds, dashboards, pricing pages, redesigns, site audits, or "make it professional/premium" requests. Contains the success research (why sites convert), the Webflow execution playbook (native-first, Client-First classes, API gotchas), and the pre-ship QA protocol. Complements frontend-design (aesthetic direction); this skill covers what makes sites WORK and how to execute at expert level.
+user-invocable: true
 ---
 
 # Web Mastery — build sites that look expert and actually succeed
